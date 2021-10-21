@@ -1,11 +1,11 @@
 export const MOODS = [
-  'cicás',
-  'álmos',
-  'nyomi',
-  'kedves',
-  'fosimosi',
-  'utálatos',
-  'csodás',
+  'catty',
+  'sleepy',
+  'silly',
+  'lovely',
+  'awful',
+  'hateful',
+  'wonderful',
 ];
 
 export const getMood = (prevMood) => {
